@@ -1,4 +1,4 @@
-<h3 align="center">Kedu. Bonjour. Hola👋.</h3>
+<h3 align="center">Hello👋.</h3>
 <h4 align="center">My name is Cognoscenti but my friends call me Scenti😎</h4>
 
 ***
