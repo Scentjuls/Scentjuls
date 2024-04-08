@@ -5,8 +5,9 @@
 
 I am a frontend Developer and a technical writer. I enjoy writing about new technologies i'm learning, challenges I face while learning as well my achievements. 
 
-When I am not working on my day job, saving lives and making the world a better place 😊 I draw images on codepen with css or develop games with vanilla javascript. I am currently learning Vue and i'm looking forward to creating beautiful and amazing sites with the framework. 
+When I am not working on my day job, saving lives and making the world a better place 😊 I draw images on codepen with css or develop games with vanilla javascript. 
 
+Tech Stack: React, Tailwind CSS, Bootstrap
 
 
 - 📫 How to reach me: [@chidimma__](https://twitter.com/chidimma__)
